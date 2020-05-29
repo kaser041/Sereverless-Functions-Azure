@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "AzureWebJobsDashboard": "",
+    "MAIN_CLASS":"application.Application"
+  }
+}
